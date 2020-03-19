@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1583588804 source:a:\projects_cpp\interviewbit\arrays\arrayutils.cpp
+
+1583833094 source:a:\projects_cpp\interviewbit\main.cpp
+	<iostream>
+
+1583646225 a:\projects_cpp\interviewbit\arrays\arrayutils.h
+	<vector>
+	<iostream>
+
+1584191178 source:a:\projects_cpp\interviewbit\algorithms\insertionsort.cpp
+	"Utils.h"
+	<iostream>
+
+1583853750 a:\projects_cpp\interviewbit\utils\utils.h
+	<vector>
+
+1583853709 source:a:\projects_cpp\interviewbit\utils\utils.cpp
+	"Utils.h"
+	<iostream>
+	<vector>
+
+1583831414 source:a:\projects_cpp\interviewbit\algorithms\mergesort.cpp
+	"Utils.h"
+	<iostream>
+
+1584180981 source:a:\projects_cpp\interviewbit\algorithms\selectionsort.cpp
+	<iostream>
+	<vector>
+	"Utils.h"
+
+1584179982 source:a:\projects_cpp\interviewbit\algorithms\bubblesort.cpp
+	<iostream>
+	<vector>
+	"Utils.h"
+
+1584191017 source:a:\projects_cpp\interviewbit\arrays\add one to number.cpp
+
+1584191315 source:a:\projects_cpp\interviewbit\arrays\spiralordermatrix1.cpp
+
+1584212718 source:a:\projects_cpp\interviewbit\arrays\min steps in infinite grid.cpp
+	<iostream>
+	<vector>
+
+1584464159 source:a:\projects_cpp\interviewbit\arrays\minstepsininfinitegrid.cpp
+	<iostream>
+	<vector>
+
+1584464074 source:a:\projects_cpp\interviewbit\arrays\maxsumcontiguoussubarray.cpp
+	<iostream>
+	<vector>
+
+1584464186 source:a:\projects_cpp\interviewbit\arrays\addonetonumber.cpp
+	<iostream>
+	<vector>
+	"Utils.h"
+
