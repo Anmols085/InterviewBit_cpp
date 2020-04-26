@@ -50,11 +50,16 @@
 		<Unit filename="Arrays/SpiralOrderMatrix1.cpp" />
 		<Unit filename="Arrays/SpiralOrderMatrix2.cpp" />
 		<Unit filename="Arrays/TripletWithSumInRange.cpp" />
+		<Unit filename="BinarySearch/AllocateBooks.cpp" />
+		<Unit filename="BinarySearch/ImplementPowerFunction.cpp" />
 		<Unit filename="BinarySearch/MatrixMedian.cpp" />
 		<Unit filename="BinarySearch/MatrixSearch.cpp" />
+		<Unit filename="BinarySearch/MedianOfArray.cpp" />
+		<Unit filename="BinarySearch/PainterPartitionProblem.cpp" />
+		<Unit filename="BinarySearch/RotatedSortedArraySearch.cpp" />
+		<Unit filename="BinarySearch/SearchForARange.cpp" />
+		<Unit filename="BinarySearch/SortedInsertPosition.cpp" />
 		<Unit filename="BinarySearch/SquareRootOfInteger.cpp" />
-		<Unit filename="CityTour.cpp" />
-		<Unit filename="GirdUniquePaths.cpp" />
 		<Unit filename="Level2PrettyPrint.cpp" />
 		<Unit filename="Math/CityTour.cpp" />
 		<Unit filename="Math/ExcelColumnNumber.cpp" />
@@ -71,6 +76,8 @@
 		<Unit filename="Math/SortedPermutationRank.cpp" />
 		<Unit filename="Math/SumOfPairwiseHammingDistance.cpp" />
 		<Unit filename="Math/TrailingZeroes.cpp" />
+		<Unit filename="String/LongestCommonPrefix.cpp" />
+		<Unit filename="String/PalindromeString.cpp" />
 		<Unit filename="Utils/Utils.cpp" />
 		<Unit filename="Utils/Utils.h" />
 		<Unit filename="main.cpp" />
