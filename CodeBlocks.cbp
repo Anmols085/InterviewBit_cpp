@@ -5,6 +5,7 @@
 		<Option title="CodeBlocks" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
+		<Option virtualFolders="BitManipulation\;" />
 		<Build>
 			<Target title="Debug">
 				<Option output="bin/Debug/CodeBlocks" prefix_auto="1" extension_auto="1" />
@@ -60,6 +61,13 @@
 		<Unit filename="BinarySearch/SearchForARange.cpp" />
 		<Unit filename="BinarySearch/SortedInsertPosition.cpp" />
 		<Unit filename="BinarySearch/SquareRootOfInteger.cpp" />
+		<Unit filename="BitManipulation/different-bits-sum-pairwise.cpp" />
+		<Unit filename="BitManipulation/min-xor-value.cpp" />
+		<Unit filename="BitManipulation/number-of-1-bits.cpp" />
+		<Unit filename="BitManipulation/reverse-bits.cpp" />
+		<Unit filename="Divide-Integers.cpp">
+			<Option virtualFolder="BitManipulation/" />
+		</Unit>
 		<Unit filename="Level2PrettyPrint.cpp" />
 		<Unit filename="Math/CityTour.cpp" />
 		<Unit filename="Math/ExcelColumnNumber.cpp" />
