@@ -5,7 +5,6 @@
 		<Option title="CodeBlocks" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
-		<Option virtualFolders="BitManipulation\;" />
 		<Build>
 			<Target title="Debug">
 				<Option output="bin/Debug/CodeBlocks" prefix_auto="1" extension_auto="1" />
@@ -61,13 +60,13 @@
 		<Unit filename="BinarySearch/SearchForARange.cpp" />
 		<Unit filename="BinarySearch/SortedInsertPosition.cpp" />
 		<Unit filename="BinarySearch/SquareRootOfInteger.cpp" />
+		<Unit filename="BitManipulation/DivideIntegers.cpp" />
 		<Unit filename="BitManipulation/different-bits-sum-pairwise.cpp" />
 		<Unit filename="BitManipulation/min-xor-value.cpp" />
 		<Unit filename="BitManipulation/number-of-1-bits.cpp" />
 		<Unit filename="BitManipulation/reverse-bits.cpp" />
-		<Unit filename="Divide-Integers.cpp">
-			<Option virtualFolder="BitManipulation/" />
-		</Unit>
+		<Unit filename="BitManipulation/single-number-ii.cpp" />
+		<Unit filename="BitManipulation/single-number.cpp" />
 		<Unit filename="Level2PrettyPrint.cpp" />
 		<Unit filename="Math/CityTour.cpp" />
 		<Unit filename="Math/ExcelColumnNumber.cpp" />
@@ -86,6 +85,13 @@
 		<Unit filename="Math/TrailingZeroes.cpp" />
 		<Unit filename="String/LongestCommonPrefix.cpp" />
 		<Unit filename="String/PalindromeString.cpp" />
+		<Unit filename="TwoPointers/3SumZero.cpp" />
+		<Unit filename="TwoPointers/3sum.cpp" />
+		<Unit filename="TwoPointers/CountingTriangles.cpp" />
+		<Unit filename="TwoPointers/DiffK.cpp" />
+		<Unit filename="TwoPointers/IntersectionOfSortedArrays.cpp" />
+		<Unit filename="TwoPointers/MergeTwoSortedLists2.cpp" />
+		<Unit filename="TwoPointers/MinimizeTheAbsoluteDifference.cpp" />
 		<Unit filename="Utils/Utils.cpp" />
 		<Unit filename="Utils/Utils.h" />
 		<Unit filename="main.cpp" />
